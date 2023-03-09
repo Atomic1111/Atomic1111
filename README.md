@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Atomic
+- 👋 Hi, I’m Chris
 - 👀 I’m interested in creating personal projects to help others
 - 🌱 I’m currently learning how to program
 - 💞️ I’m looking to collaborate on new ideas and/or projects
