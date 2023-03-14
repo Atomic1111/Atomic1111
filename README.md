@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Chris
-- 👀 I’m interested in creating personal projects to help others
-- 🌱 I’m currently learning how to program
-- 💞️ I’m looking to collaborate on new ideas and/or projects
+- Hi, I’m Chris
+- I'm a third year Mechanical Engineering and Computing Technology major at the University of Ottawa
+- I’m interested in creating personal projects to help others and further expand my programming knowledge
+- This is my little hub where I will just post projects I'm working on and have finished
 
 <!---
 Atomic1111/Atomic1111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
